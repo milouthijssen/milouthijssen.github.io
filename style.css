@@ -1,0 +1,51 @@
+body {
+  background-image: url("barcelonaachtergrond.jpg");
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h1 {
+  color:#2E2E2E;
+  text-align: center;
+  font-family: verdana;
+  font-size: 40px;
+
+}
+
+h2 {
+  color:#2E2E2E;
+  text-align: center;
+  font-family: verdana;
+  font-style: italic;
+  font-size: 15px;
+}
+
+h3 {
+  color:#2E2E2E;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
