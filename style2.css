@@ -10,6 +10,12 @@ ul {
     background-color: #333;
 }
 
+ul.my-list-style {
+    list-style-type:none;
+    color: #0000FF;
+    padding: 10px 20px;
+}
+
 li {
     float: left;
 }
